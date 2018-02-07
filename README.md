@@ -1,4 +1,4 @@
-Readme
+<h1 Readme>
 
 The files included in this repository are as follows:
 - README.md, explains how the dataset is created and what files are included in this repository.
@@ -8,7 +8,7 @@ The files included in this repository are as follows:
 
 
 
-Creating dataset 
+**Creating dataset** 
 
 The R script run_analysis.R can be used to create the data set. It retrieves the source data set and transforms it to produce the final data set by implementing the following steps:
 - Read data.
